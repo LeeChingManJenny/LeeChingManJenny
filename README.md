@@ -1,6 +1,6 @@
 ## Current Work
 #### Stock Prediction through news analysis
-*This project is just an individual coding exercise. Please look at my project if you are interested to it.*
+*This project is just an individual coding exercise. Please look at my repo __Stock ANA__ if you are interested to it.*
 
 
 
