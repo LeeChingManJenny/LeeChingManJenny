@@ -1,6 +1,7 @@
 ## Current Projects
 #### Stock Prediction through news analysis
 *This project is an individual coding exercise. Please look at my repo __Stock ANA__ if you are interested to it.*
+
 This model is by calculating the features of news, and of stocks, to predict the precentage change of HSI.
 It have criterion = nn.HuberLoss(delta=1.0) and Epoch 100: Train Loss = 0.3884, Val Loss = 0.3751
 
