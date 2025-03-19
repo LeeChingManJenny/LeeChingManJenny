@@ -20,7 +20,12 @@ By calculating the features of news, and of stocks, this model is to predict the
 ### Customer Analytics & Purchase Prediction  
 *February 2024 – March 2024*  
 - Identified 5 customer segments driving 80% of revenue (35% ROI improvement)  
-- Built TensorFlow Sequential model with 95.73% precision, reducing prediction error by 22% vs. Random Forest  
+- Built TensorFlow Sequential model with 95.73% precision, reducing prediction error by 22% vs. Random Forest
+
+### Bookstore Ordering System
+*February 2024 – March 2024*  
+- Developed Java CLI Application: Built a command-line system for bookstore operations using JDBC and Oracle Database.
+- Database Design & Optimization: Structured normalized SQL tables to handle 100+ concurrent transactions with zero data corruption during testing.
 
 ---
 ## INTERNSHIP EXPERIENCE  
