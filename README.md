@@ -1,12 +1,3 @@
-## EDUCATION  
-**The Chinese University of Hong Kong** | HKSAR, China  
-**Bachelor of Science in Statistics** | Major GPA: 3.54/4 | IELTS: 7.5/9  
-*Minor in Risk Management Science*  
-*Expected to graduate in July 2025*  
-- Relevant coursework: Recommender Systems, Database Systems, Statistical Computing  
-- Awards: College Head’s List, Department/Programme Scholarship, Department of Statistics Scholarship  
-
----
 ## Individual Project
 #### Stock Prediction through news analysis
 *This project is an individual coding exercise. Please look at my repo __HSI_pred_byNewsAna__ if you are interested to it.*
