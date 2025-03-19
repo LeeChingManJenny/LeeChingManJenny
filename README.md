@@ -1,5 +1,6 @@
 ## Individual Project
-#### HSI Prediction via News Analysis
+
+### HSI Prediction via News Analysis
 *This project is an individual coding exercise. Please look at my repo __HSI_pred_byNewsAna__ if you are interested to it.*
 
 By calculating the features of news, and of stocks, this model is to predict the precentage change of HSI.
