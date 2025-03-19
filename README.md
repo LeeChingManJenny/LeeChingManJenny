@@ -1,3 +1,12 @@
+## EDUCATION  
+**The Chinese University of Hong Kong** | HKSAR, China  
+**Bachelor of Science in Statistics** | Major GPA: 3.54/4 | IELTS: 7.5/9  
+*Minor in Risk Management Science*  
+*Expected to graduate in July 2025*  
+- Relevant coursework: Recommender Systems, Database Systems, Statistical Computing  
+- Awards: College Head’s List, Department/Programme Scholarship, Department of Statistics Scholarship  
+
+---
 ## Individual Project
 #### Stock Prediction through news analysis
 *This project is an individual coding exercise. Please look at my repo __HSI_pred_byNewsAna__ if you are interested to it.*
@@ -5,48 +14,40 @@
 This model is by calculating the features of news, and of stocks, to predict the precentage change of HSI.
 It have criterion = nn.HuberLoss(delta=1.0) and Epoch 100: Train Loss = 0.3884, Val Loss = 0.3751
 
+## INTERNSHIP EXPERIENCE  
 
-## Pervious Research Projects
-#### Horse Racing Prediction and Betting Strategy
-*We proposed 3 models involve conditional logistic regression and recurrent neural network to predict horse racing results.*
+### Professional Attachment  
+**Census and Statistics Department & Department of Statistics, CUHK** | HKSAR, China  
+*June 2024 – August 2024*  
+- Pioneered data extraction: Developed Python scripts to automate scraping of 10,000+ land sale records, reducing manual processing time by 65%  
+- Designed AI-driven data engineering: Deployed NLP tools to filter unstructured online texts for critical project attributes  
+- Resolved algorithmic bottlenecks: Debugged neural network architectures, reducing model error rates by 18%  
 
-*Key tools used:* sklearn, Pytorch, beautifulsoup4
+### Research Assistant (Part-time) & Summer Intern  
+**Occupational Safety and Health Council** | HKSAR, China  
+*Sep 2023 – July 2024 (Part-time)* | *July 2023 – August 2023 (Summer Intern)*  
+- Automated data integration: Processed industrial accident datasets using Python, creating interactive dashboards  
+- Identified injury risk factors: Applied multivariate binary logistic regression to pinpoint 3 key safety intervention drivers  
+- Streamlined research workflows: Accelerated team decision-making by 30% through literature review summaries  
 
-*Key Achievements:*
-- Delivered a scalable framework for predicting horse racing result
-- Identified optimal betting thresholds to balance risk and reward
+---
 
+## RESEARCH PROJECTS  
 
-#### Customer Analytics
-*We conduct text analysis by sklearn, and classify customer categories with high precision by supervised learning models such as K Nearest Neighbor.*
+### Horse Racing Prediction and Betting Strategy  
+*September 2024 – December 2024*  
+- Designed 3 novel model architectures (Conditional/Deep/Two-Tower Logit) for outcome forecasting  
+- Scaled data pipeline: Automated scraping/preprocessing of 100,000+ HKJC race entries (70% efficiency gain)  
+- Achieved peak profits >10,000 units using Kelly Criterion strategy  
 
-*Key tools used:* sklearn, SQL
+### Customer Analytics & Purchase Prediction  
+*February 2024 – March 2024*  
+- Identified 5 customer segments driving 80% of revenue (35% ROI improvement)  
+- Built TensorFlow Sequential model with 95.73% precision, reducing prediction error by 22% vs. Random Forest  
 
-*Key Achievements:*
-- Identify trends and clusters of customer's shopping records via principal component analysis
-- Uncovered actionable customer segmentation insights to drive targeted marketing strategies.
+---
 
-#### Library System
-*We implement a library system that records basic book borrowing and returning operations, update information of books exists in the library.*
-
-*Key tools used:* SQL, JAVA
-
-*Key Achievements:*
-- Perform database management by JAVA programming
-
-
-  
-<!--
-**LeeChingManJenny/LeeChingManJenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SKILLS  
+**Languages:** Fluent in English, Cantonese, Mandarin  
+**Technical:** Python • SQL • R • Java • C • SAS • LaTeX • RISC-V  
+**Tools:** NLP • TensorFlow • Data Visualization • Statistical Modeling  
